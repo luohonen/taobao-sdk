@@ -1,0 +1,21 @@
+{
+    "name": "luohonen/taobao-sdk",
+    "description": "topapi php sdk",
+    "type": "library",
+	"license": "MIT",
+	"require": {
+      "php": ">=7.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Luohonen\\TaobaoSdk\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "luohonen",
+            "email": "545282636@qq.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
